@@ -9,7 +9,7 @@ I build full-stack software and applied-LLM tools.
 | Project | What it is | Stack |
 |---|---|---|
 | [Dovetailed](https://github.com/yuriolvrs/dovetailed) | Job-posting → tailored resume/cover letter via LLM, with evidence-grounded generation ([live](https://dovetailed.pages.dev)) | React, TS, Cloudflare Workers, Groq GPT-OSS 120B, Mistral OCR |
-| [May Reviewer](https://github.com/yuriolvrs/mayreviewer) | Study-notes → practice exams with AI format inference ([live](https://mayreviewer.vercel.app)) | Next.js, TS, Gemini, Mistral, Supabase |
+| [May Reviewer](https://github.com/yuriolvrs/mayreviewer) | Notes and Materials → practice exams with AI format inference ([live](https://mayreviewer.vercel.app)) | Next.js, TS, Gemini, Mistral, Supabase |
 | Kabu Kids (thesis) | Multimodal AI dining companion for kids 6–12 — Whisper STT, ViT facial-expression recognition, GPT-OSS 120B, TTS | Python, Kivy, PyTorch, MongoDB |
 
 #### 🛠️ Stack
