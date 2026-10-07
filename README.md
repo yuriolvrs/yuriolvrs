@@ -18,4 +18,5 @@ TypeScript · Python · Next.js · React · Prisma · PostgreSQL · Supabase · 
 #### 📫 Reach me
 
 - yuri.olivares0608@gmail.com
+- [Resume](https://github.com/yuriolvrs/yuriolvrs/blob/main/Olivares_Marc_Resume.pdf)
 - [LinkedIn](https://linkedin.com/in/marc-yuri-olivares)
