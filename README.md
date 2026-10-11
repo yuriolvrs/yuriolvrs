@@ -1,6 +1,6 @@
 ### Hi, I'm Yuri 👋
 
-Computer Science senior at De La Salle University – Manila, graduating Dec 2026. I build full-stack software and applied-LLM tools.
+Full-stack Software and AI engineer, and a CS senior at De La Salle University – Manila (graduating Dec 2026). I build products end to end, from client platforms to LLM-powered tools.
 
 #### 🔭 Projects
 
