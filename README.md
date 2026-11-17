@@ -6,8 +6,8 @@ Full-stack Software and AI engineer, and a CS senior at De La Salle University �
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Dovetailed](https://github.com/yuriolvrs/dovetailed) | Job-posting → tailored resume/cover letter via LLM, with evidence-grounded generation ([live](https://dovetailed.pages.dev)) | React, TypeScript, Cloudflare Workers, Groq GPT-OSS 120B, Mistral OCR |
-| [May Reviewer](https://github.com/yuriolvrs/mayreviewer) | Notes and Materials → practice exams with AI format inference ([live](https://mayreviewer.vercel.app)) | Next.js, TypeScript, Gemini, Mistral, Supabase |
+| [Dovetailed](https://github.com/yuriolvrs/dovetailed) | Turn job postings into tailored resumes/cover letters via LLM, with evidence-grounded generation ([live](https://dovetailed.pages.dev)) | React, TypeScript, Cloudflare Workers, Groq GPT-OSS 120B, Mistral OCR |
+| [May Reviewer](https://github.com/yuriolvrs/mayreviewer) | Turn your notes and course materials into practice exams with AI format inference ([live](https://mayreviewer.vercel.app)) | Next.js, TypeScript, Gemini, Mistral, Supabase |
 | Kabu Kids (thesis) | Multimodal AI dining companion for kids 6–12 — STT, TTS, ViT facial-expression recognition, GPT-OSS 120B | Python, Kivy, PyTorch, MongoDB |
 | Bill&Pay (private repo) | Billing & Payroll platform built project-based with InterAsia Outsource, Inc. — worker/client management, invoicing, and spreadsheet ingestion | Next.js, TypeScript, Prisma, PostgreSQL |
 
